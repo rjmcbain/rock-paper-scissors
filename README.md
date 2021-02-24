@@ -3,7 +3,7 @@
 
 View app: https://rjmcbain.github.io/rock-paper-scissors/
 
-![Screen Shot 2021-02-24 at 2 28 42 PM](https://user-images.githubusercontent.com/33466125/109074784-09287c00-76ad-11eb-9d53-b8387decf632.png)
+![Screen Shot 2021-02-24 at 2 35 19 PM](https://user-images.githubusercontent.com/33466125/109075196-abe0fa80-76ad-11eb-92b2-2414861767e8.png)
 
 ### Technologies Used
 
